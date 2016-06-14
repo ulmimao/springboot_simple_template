@@ -13,7 +13,11 @@ public class ulmm {
 
     public static void main(String[] args) {
 
-        System.out.println("git branch merge123");
+        int a = 123;
+
+        int b = 222;
+
+        System.out.println("git branch merge232");
 
     }
 
