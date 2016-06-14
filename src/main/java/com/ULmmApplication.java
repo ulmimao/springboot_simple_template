@@ -6,15 +6,8 @@ package com;
 /**
  *
  * @author <a href="mailto:2881090362@qq.com">戴爽</a>
- * @version 1.0 16/6/6
+ * @version 1.0 16/6/13
  * @since 1.0
  */
-public class ulmm {
-
-    public static void main(String[] args) {
-
-        System.out.println("git branch merge");
-
-    }
-
+public class ULmmApplication {
 }
