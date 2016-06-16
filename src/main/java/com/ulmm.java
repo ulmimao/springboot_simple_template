@@ -15,9 +15,7 @@ public class ulmm {
 
         int a = 123;
 
-        int b = 222;
-
-        System.out.println("git branch merge232");
+        System.out.println("git branch merge");
 
     }
 
