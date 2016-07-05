@@ -17,6 +17,8 @@ public class ulmm {
 
         int b = 333;
 
+        int c = 444;
+
         System.out.println("git branch merge232");
 
     }
